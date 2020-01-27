@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iexuiduwoo.idealenigma.com/sitemap.xml
